@@ -16,7 +16,8 @@ Quando um dos participantes faz uma linha, ganha o jogo e tudo se inicia.
 ```
 
 `fonte:`
-https://educamais.com/jogo-velha/#:~:text=O%20objetivo%20do%20jogo%20%C3%A9,normalmente%20trocando%20os%20s%C3%ADmbolos%20escolhidos
+<p text-size="8px">
+https://educamais.com/jogo-velha/#:~:text=O%20objetivo%20do%20jogo%20%C3%A9,normalmente%20trocando%20os%20s%C3%ADmbolos%20escolhidos</p>
 
 
 ### Features
@@ -26,7 +27,7 @@ https://educamais.com/jogo-velha/#:~:text=O%20objetivo%20do%20jogo%20%C3%A9,norm
 - [x] Função CallBack
 
 <div align="center">
-	<img src="https://github.com/carlosvico/JavaScript/blob/master/Jogo%20da%20Velha/img/jsjv.gif" height="500px">
+	<img src="https://github.com/carlosvico/JavaScript/blob/master/Jogo%20da%20Velha/img/jsjv.gif" height="350px">
 </div>
 
 <h4 align="center"> 
