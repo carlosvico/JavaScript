@@ -23,9 +23,11 @@ https://educamais.com/jogo-velha/#:~:text=O%20objetivo%20do%20jogo%20%C3%A9,norm
 
 - [x] Mapeamento dos elemento html pelo javascript
 - [x] Lógica para a alternância dos Jogadores
-- [ ] Função CallBack
+- [x] Função CallBack
 
-!["Demonstração do Jogo"](https://github.com/carlosvico/JavaScript/blob/master/Jogo%20da%20Velha/img/jsjv.gif)
+<div align="center">
+	<img src="https://github.com/carlosvico/JavaScript/blob/master/Jogo%20da%20Velha/img/jsjv.gif" height="500px">
+</div>
 
 <h4 align="center"> 
     
