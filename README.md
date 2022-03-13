@@ -15,6 +15,9 @@ Quando um dos participantes faz uma linha, ganha o jogo e tudo se inicia.
 
 ```
 
+`fonte:`
+https://educamais.com/jogo-velha/#:~:text=O%20objetivo%20do%20jogo%20%C3%A9,normalmente%20trocando%20os%20s%C3%ADmbolos%20escolhidos
+
 
 ### Features
 
@@ -22,9 +25,7 @@ Quando um dos participantes faz uma linha, ganha o jogo e tudo se inicia.
 - [x] Lógica para a alternância dos Jogadores
 - [ ] Função CallBack
 
-
-`fonte:`
-https://educamais.com/jogo-velha/#:~:text=O%20objetivo%20do%20jogo%20%C3%A9,normalmente%20trocando%20os%20s%C3%ADmbolos%20escolhidos
+![]()
 
 <h4 align="center"> 
     
