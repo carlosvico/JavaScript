@@ -25,7 +25,7 @@ https://educamais.com/jogo-velha/#:~:text=O%20objetivo%20do%20jogo%20%C3%A9,norm
 - [x] Lógica para a alternância dos Jogadores
 - [ ] Função CallBack
 
-![]()
+!["Demonstração do Jogo"](https://github.com/carlosvico/JavaScript/blob/master/Jogo%20da%20Velha/img/jsjv.gif)
 
 <h4 align="center"> 
     
