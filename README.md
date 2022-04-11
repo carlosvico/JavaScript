@@ -14,10 +14,8 @@
 Quando um dos participantes faz uma linha, ganha o jogo e tudo se inicia.
 
 ```
-
-`fonte:`
-<p text-size="8px">
-https://educamais.com/jogo-velha/#:~:text=O%20objetivo%20do%20jogo%20%C3%A9,normalmente%20trocando%20os%20s%C3%ADmbolos%20escolhidos</p>
+`Fonte`
+[Site Educamais](https://educamais.com/jogo-velha/#:~:text=O%20objetivo%20do%20jogo%20%C3%A9,normalmente%20trocando%20os%20s%C3%ADmbolos%20escolhidos)
 
 
 ### Features
